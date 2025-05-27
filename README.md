@@ -40,8 +40,7 @@ If you like what I do — whether it's infrastructure automation, DevOps wizardr
 
 ## 👾 Fun Fact
 
-I once automated an entire deployment pipeline just to avoid writing documentation.  
-Then I had to write documentation... for the pipeline. ☠️
+My favorite form of exercise is deleting redundant infrastructure manually — just kidding, I automate that too. 🏋️‍♂️💻⚙️
 
 ---
 
