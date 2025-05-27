@@ -27,8 +27,6 @@ If you like what I do — whether it's infrastructure automation, DevOps wizardr
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y61C3DDN)
 
----
-
 ## 🧠 Currently Exploring
 
 - 🛰️ Cloud-native architectures without the cloud-native bloat
@@ -36,17 +34,11 @@ If you like what I do — whether it's infrastructure automation, DevOps wizardr
 - 🔍 Observability, resilience, and chaos-tolerant infra
 - 🤖 Small, fast, serverless apps that scale and *just work*
 
----
-
 ## 👾 Fun Fact
 
 My favorite form of exercise is deleting redundant infrastructure manually — just kidding, I automate that too. 🏋️‍♂️💻⚙️
 
----
-
 🧼 Mostly Harmless. Occasionally brilliant. Always building.
-
----
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=neontowel&no-frame=true&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
