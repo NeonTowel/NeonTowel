@@ -49,9 +49,9 @@ Then I had to write documentation... for the pipeline. ☠️
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=neontowel&label=Profile%20views&color=0e75b6&style=flat)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=neontowel)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=neontowel&no-frame=true&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NeonTowel&theme=catppuccin-mocha)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neontowel&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=neontowel&label=Profile%20views&color=0e75b6&style=flat)
